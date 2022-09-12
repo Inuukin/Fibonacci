@@ -2,8 +2,8 @@
 
 ## Fibonacci
 
-number1 = input("Enter Fibbonaci number that represents a lower range: ")
-number2 = input("Enter Fibbonaci number that represents a upper range: ")
+number1 = input("Enter a number that represents a lower range of Fibonacci sequence: ")
+number2 = input("Enter a number that represents a upper range of Fibonacci sequence: ")
 
 ## generate fibonacci for 250 numbers
 table = [-1 for _ in range(250)]
